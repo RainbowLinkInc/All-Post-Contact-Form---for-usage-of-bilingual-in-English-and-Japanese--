@@ -1,0 +1,30 @@
+/*=====================================================
+                All Post Contact Form 
+  - for usage of bilingual in English and Japanese - 
+  　　　　　　　　　allpost-contactform.js
+=====================================================*/
+
+【Quick Start】
+
+If you can accept the default text, you can set up quickly.
+
+(1) At "Settings" > "Contact Form" on your WordPress Admin Panel, on the green area, set empty without "E-mail Address to receive E-mails via this plugin ( If empty, this plugin will use your Admin E-mail Address )".
+
+(2) Open allpost-contactform.js, and add a new function for Japanese language to it. If you use the default function, "checkForm", for English language, the new function for Japanese language has to have a new name like this: "checkFormJa".
+
+(3) Set the function for your html form page written in Japanese language.　Change the default function, "checkForm", to the new function, "checkFormJa".
+
+(4) Upload the files to allpost-contactform directory of your server.
+
+Use allpost-contactform.js packed together with this file. It's the same file of our official DEMO. You can　confirm the functions on our official DEMO.
+
+- DEMO
+https://www.secure-formmail.net/all-post-contact-form/
+
+
+
+【Customized Start】
+See another package:  All Post Contact Form　- for usage of multilingual - 
+
+
+
